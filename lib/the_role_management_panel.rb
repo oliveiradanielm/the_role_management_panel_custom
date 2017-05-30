@@ -1,6 +1,5 @@
 %w[
   the_notification
-  bootstrap-sass
   sass-rails
   slim
 ].each { |lib| require lib }
